@@ -1,0 +1,726 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:USASCII
+CHARSET:1252
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+<OFX>
+    <SIGNONMSGSRSV1>
+        <SONRS>
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <DTSERVER>20180628115958[-3:GMT]
+            <LANGUAGE>ENG
+            <FI>
+                <ORG>SANTANDER
+                <FID>SANTANDER
+            </FI>
+        </SONRS>
+    </SIGNONMSGSRSV1>
+    <BANKMSGSRSV1>
+        <STMTTRNRS>
+            <TRNUID>1
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <STMTRS>
+                <CURDEF>BRL
+                <BANKACCTFROM>
+                    <BANKID>033
+                    <ACCTID>4327130017147
+                    <ACCTTYPE>CHECKING
+                </BANKACCTFROM>
+                <BANKTRANLIST>
+                    <DTSTART>20180628115958[-3:GMT]
+                    <DTEND>20180628115958[-3:GMT]
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180502000000[-3:GMT]
+                        <TRNAMT>-6842,06
+                        <FITID>00022806
+                        <CHECKNUM>00022806
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE TITULOS - BCE         07.707.650/0001-10       
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180502000000[-3:GMT]
+                        <TRNAMT>-4,59
+                        <FITID>00032806
+                        <CHECKNUM>00032806
+                        <PAYEEID>0
+                        <MEMO>IOF IMPOSTO OPERACOES FINANCEIRAS  PERIODO: 01/04 A 30/04/18
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180502000000[-3:GMT]
+                        <TRNAMT>-135,72
+                        <FITID>00042806
+                        <CHECKNUM>00042806
+                        <PAYEEID>0
+                        <MEMO>IOF ADICIONAL - AUTOMATICO         PERIODO: 01/04 A 30/04/18
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180503000000[-3:GMT]
+                        <TRNAMT>-49,90
+                        <FITID>00052806
+                        <CHECKNUM>00052806
+                        <PAYEEID>0
+                        <MEMO>TARIFA DE MANUT MENSAL C/C ATIVA   30/04/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180503000000[-3:GMT]
+                        <TRNAMT>5000,00
+                        <FITID>00113353
+                        <CHECKNUM>00113353
+                        <PAYEEID>0
+                        <MEMO>DEPOSITO EM DINHEIRO NO CAIXA                               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180503000000[-3:GMT]
+                        <TRNAMT>3000,00
+                        <FITID>00072806
+                        <CHECKNUM>00072806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     13999254000107           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180503000000[-3:GMT]
+                        <TRNAMT>-3013,00
+                        <FITID>00505960
+                        <CHECKNUM>00505960
+                        <PAYEEID>0
+                        <MEMO>TRANSF VALOR P/ CONTA DIF TITULAR  20972601287              
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180503000000[-3:GMT]
+                        <TRNAMT>20000,00
+                        <FITID>00092806
+                        <CHECKNUM>00092806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     756.755.792-49           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180503000000[-3:GMT]
+                        <TRNAMT>-20000,00
+                        <FITID>00010503
+                        <CHECKNUM>00010503
+                        <PAYEEID>0
+                        <MEMO>DEBITO PAGAMENTO DE SALARIO        PAGSAL:          1 PAGTOS
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180503000000[-3:GMT]
+                        <TRNAMT>-109,29
+                        <FITID>00043745
+                        <CHECKNUM>00043745
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO MAESTRO              03/05 TROPICAL CENTER    
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180504000000[-3:GMT]
+                        <TRNAMT>15000,00
+                        <FITID>00152820
+                        <CHECKNUM>00152820
+                        <PAYEEID>0
+                        <MEMO>DEPOSITO EM DINHEIRO NO CAIXA                               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180504000000[-3:GMT]
+                        <TRNAMT>-180,00
+                        <FITID>00373645
+                        <CHECKNUM>00373645
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO MAESTRO              04/05 POSTO JULIO FAR    
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180504000000[-3:GMT]
+                        <TRNAMT>-85,77
+                        <FITID>00424145
+                        <CHECKNUM>00424145
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO MAESTRO              04/05 CHAMA CASA   CO    
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180504000000[-3:GMT]
+                        <TRNAMT>-57913,18
+                        <FITID>00152806
+                        <CHECKNUM>00152806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET   INSTITUTO HERMES PARDINI 
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180507000000[-3:GMT]
+                        <TRNAMT>-2,10
+                        <FITID>00162806
+                        <CHECKNUM>00162806
+                        <PAYEEID>0
+                        <MEMO>TARIFA TRANSF.RECURSO (E/I)        03/05/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180507000000[-3:GMT]
+                        <TRNAMT>-169,90
+                        <FITID>00919615
+                        <CHECKNUM>00919615
+                        <PAYEEID>0
+                        <MEMO>DEBITO CIELO                       BAND VISA                
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180507000000[-3:GMT]
+                        <TRNAMT>-255,00
+                        <FITID>00182806
+                        <CHECKNUM>00182806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET                            
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180508000000[-3:GMT]
+                        <TRNAMT>5794,00
+                        <FITID>00151106
+                        <CHECKNUM>00151106
+                        <PAYEEID>0
+                        <MEMO>DEPOSITO EM DINHEIRO NO CAIXA                               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180509000000[-3:GMT]
+                        <TRNAMT>6000,00
+                        <FITID>00143105
+                        <CHECKNUM>00143105
+                        <PAYEEID>0
+                        <MEMO>DEPOSITO EM DINHEIRO NO CAIXA                               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180509000000[-3:GMT]
+                        <TRNAMT>5415,00
+                        <FITID>00212806
+                        <CHECKNUM>00212806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     756.755.792-49           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180509000000[-3:GMT]
+                        <TRNAMT>-22896,00
+                        <FITID>00010509
+                        <CHECKNUM>00010509
+                        <PAYEEID>0
+                        <MEMO>DEBITO PAGAMENTO DE SALARIO        PAGSAL:         21 PAGTOS
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180510000000[-3:GMT]
+                        <TRNAMT>1500,00
+                        <FITID>00332305
+                        <CHECKNUM>00332305
+                        <PAYEEID>0
+                        <MEMO>TRANSFERENCIA ENTRE CONTAS         23972571000193           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180510000000[-3:GMT]
+                        <TRNAMT>-1504,23
+                        <FITID>00002100
+                        <CHECKNUM>00002100
+                        <PAYEEID>0
+                        <MEMO>PREST. DE EMPREST. FINANCIAMENTO   PARC 004/012 300000002100
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180516000000[-3:GMT]
+                        <TRNAMT>559,72
+                        <FITID>00252806
+                        <CHECKNUM>00252806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     11828089000103           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180516000000[-3:GMT]
+                        <TRNAMT>-559,72
+                        <FITID>00002100
+                        <CHECKNUM>00002100
+                        <PAYEEID>0
+                        <MEMO>PREST. DE EMPREST. FINANCIAMENTO   PARC 004/012 300000002100
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180521000000[-3:GMT]
+                        <TRNAMT>80903,34
+                        <FITID>00272806
+                        <CHECKNUM>00272806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     84112481000117           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180521000000[-3:GMT]
+                        <TRNAMT>-1318,53
+                        <FITID>00002100
+                        <CHECKNUM>00002100
+                        <PAYEEID>0
+                        <MEMO>PREST. DE EMPREST. FINANCIAMENTO   PARC 004/012 300000002100
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180521000000[-3:GMT]
+                        <TRNAMT>-836,99
+                        <FITID>00001510
+                        <CHECKNUM>00001510
+                        <PAYEEID>0
+                        <MEMO>PREST. DE EMPREST. FINANCIAMENTO   PARC 016/024 300000001510
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180521000000[-3:GMT]
+                        <TRNAMT>-4377,70
+                        <FITID>00233397
+                        <CHECKNUM>00233397
+                        <PAYEEID>0
+                        <MEMO>TRANSF VALOR P/ CONTA DIF TITULAR  75675579249              
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180521000000[-3:GMT]
+                        <TRNAMT>540,54
+                        <FITID>00312806
+                        <CHECKNUM>00312806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     34889238000131           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180521000000[-3:GMT]
+                        <TRNAMT>-3077,00
+                        <FITID>00322806
+                        <CHECKNUM>00322806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     14387308000308           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180521000000[-3:GMT]
+                        <TRNAMT>-3525,86
+                        <FITID>00332806
+                        <CHECKNUM>00332806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET   PRO MED . COMERCIO LTDA  
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180521000000[-3:GMT]
+                        <TRNAMT>-7934,87
+                        <FITID>00342806
+                        <CHECKNUM>00342806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET   PRO MED . COMERCIO LTDA  
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180522000000[-3:GMT]
+                        <TRNAMT>-2964,16
+                        <FITID>00352806
+                        <CHECKNUM>00352806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET   PRO MED . COMERCIO LTDA  
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180522000000[-3:GMT]
+                        <TRNAMT>-6593,17
+                        <FITID>00362806
+                        <CHECKNUM>00362806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET   PRO MED . COMERCIO LTDA  
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180522000000[-3:GMT]
+                        <TRNAMT>-338,84
+                        <FITID>00372806
+                        <CHECKNUM>00372806
+                        <PAYEEID>0
+                        <MEMO>DEBITO AUTOM GETNET - ALUGUEL      GETNET                   
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180522000000[-3:GMT]
+                        <TRNAMT>-9,50
+                        <FITID>00382806
+                        <CHECKNUM>00382806
+                        <PAYEEID>0
+                        <MEMO>TARIFA TED BCE                     21/05/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180522000000[-3:GMT]
+                        <TRNAMT>-1000,00
+                        <FITID>00020464
+                        <CHECKNUM>00020464
+                        <PAYEEID>0
+                        <MEMO>TRANSF VALOR P/ CONTA DIF TITULAR  92921442272              
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180522000000[-3:GMT]
+                        <TRNAMT>-2606,00
+                        <FITID>00305091
+                        <CHECKNUM>00305091
+                        <PAYEEID>0
+                        <MEMO>TRANSF VALOR P/ CONTA DIF TITULAR  00294889230              
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180523000000[-3:GMT]
+                        <TRNAMT>-2,10
+                        <FITID>00412806
+                        <CHECKNUM>00412806
+                        <PAYEEID>0
+                        <MEMO>TARIFA TRANSF.RECURSO (E/I)        21/05/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180523000000[-3:GMT]
+                        <TRNAMT>1356,17
+                        <FITID>00422806
+                        <CHECKNUM>00422806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     11828089000103           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180523000000[-3:GMT]
+                        <TRNAMT>-3296,34
+                        <FITID>00432806
+                        <CHECKNUM>00432806
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE TITULOS - BCE         19.540.550/0001-21       
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180523000000[-3:GMT]
+                        <TRNAMT>-1280,50
+                        <FITID>00442806
+                        <CHECKNUM>00442806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET   BIOSUL PRODUTOS DIAGNOSTI
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180523000000[-3:GMT]
+                        <TRNAMT>-2056,39
+                        <FITID>00452806
+                        <CHECKNUM>00452806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET   BIOSUL PRODUTOS DIAGNOSTI
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180523000000[-3:GMT]
+                        <TRNAMT>-2453,17
+                        <FITID>00013106
+                        <CHECKNUM>00013106
+                        <PAYEEID>0
+                        <MEMO>TRANSF VALOR P/ CONTA DIF TITULAR  01549402000102           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180523000000[-3:GMT]
+                        <TRNAMT>-10000,00
+                        <FITID>00010523
+                        <CHECKNUM>00010523
+                        <PAYEEID>0
+                        <MEMO>DEBITO PAGAMENTO DE SALARIO        PAGSAL:          1 PAGTOS
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180524000000[-3:GMT]
+                        <TRNAMT>-4,20
+                        <FITID>00482806
+                        <CHECKNUM>00482806
+                        <PAYEEID>0
+                        <MEMO>TARIFA TRANSF.RECURSO (E/I)        22/05/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180524000000[-3:GMT]
+                        <TRNAMT>-2210,05
+                        <FITID>00011513
+                        <CHECKNUM>00011513
+                        <PAYEEID>0
+                        <MEMO>TRANSF VALOR P/ CONTA DIF TITULAR  01549402000102           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180524000000[-3:GMT]
+                        <TRNAMT>-3610,00
+                        <FITID>00502806
+                        <CHECKNUM>00502806
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE TITULOS - BCE         33.066.408/0001-15       
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180524000000[-3:GMT]
+                        <TRNAMT>-4125,85
+                        <FITID>00512806
+                        <CHECKNUM>00512806
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE TITULOS - BCE         33.066.408/0001-15       
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180524000000[-3:GMT]
+                        <TRNAMT>-7959,00
+                        <FITID>00010524
+                        <CHECKNUM>00010524
+                        <PAYEEID>0
+                        <MEMO>DEBITO PAGAMENTO DE SALARIO        PAGSAL:         19 PAGTOS
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180524000000[-3:GMT]
+                        <TRNAMT>-50,00
+                        <FITID>00384145
+                        <CHECKNUM>00384145
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO MAESTRO              24/05 AUTO POSTO LAGO    
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180525000000[-3:GMT]
+                        <TRNAMT>-8,90
+                        <FITID>00542806
+                        <CHECKNUM>00542806
+                        <PAYEEID>0
+                        <MEMO>TARIFA EXTRATO CONSOLIDADO         23/05/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180525000000[-3:GMT]
+                        <TRNAMT>-2,10
+                        <FITID>00552806
+                        <CHECKNUM>00552806
+                        <PAYEEID>0
+                        <MEMO>TARIFA TRANSF.RECURSO (E/I)        23/05/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180528000000[-3:GMT]
+                        <TRNAMT>-1000,00
+                        <FITID>00654327
+                        <CHECKNUM>00654327
+                        <PAYEEID>0
+                        <MEMO>SAQUE NO ATM INTERAGENCIA                                   
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180528000000[-3:GMT]
+                        <TRNAMT>-2,10
+                        <FITID>00572806
+                        <CHECKNUM>00572806
+                        <PAYEEID>0
+                        <MEMO>TARIFA TRANSF.RECURSO (E/I)        24/05/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180528000000[-3:GMT]
+                        <TRNAMT>17458,02
+                        <FITID>00582806
+                        <CHECKNUM>00582806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     01762561000190           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180528000000[-3:GMT]
+                        <TRNAMT>-192,21
+                        <FITID>00592806
+                        <CHECKNUM>00592806
+                        <PAYEEID>0
+                        <MEMO>PGTO CONTA DE TELEFONE EM CANAIS   INTERNET OI RJ-TNL PCS S.
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180528000000[-3:GMT]
+                        <TRNAMT>-31,58
+                        <FITID>00602806
+                        <CHECKNUM>00602806
+                        <PAYEEID>0
+                        <MEMO>PGTO CONTA DE TELEFONE EM CANAIS   INTERNET OI RJ-TNL PCS S.
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180528000000[-3:GMT]
+                        <TRNAMT>-44,55
+                        <FITID>00612806
+                        <CHECKNUM>00612806
+                        <PAYEEID>0
+                        <MEMO>PGTO CONTA DE TELEFONE EM CANAIS   INTERNET OI RJ-TNL PCS S.
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180528000000[-3:GMT]
+                        <TRNAMT>-88,56
+                        <FITID>00622806
+                        <CHECKNUM>00622806
+                        <PAYEEID>0
+                        <MEMO>PGTO CONTA DE TELEFONE EM CANAIS   INTERNET OI RJ-TNL PCS S.
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180528000000[-3:GMT]
+                        <TRNAMT>-8284,00
+                        <FITID>00632806
+                        <CHECKNUM>00632806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     06160236000171           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180528000000[-3:GMT]
+                        <TRNAMT>-1377,25
+                        <FITID>00642806
+                        <CHECKNUM>00642806
+                        <PAYEEID>0
+                        <MEMO>JUROS SALDO UTILIZ ATE LIMITE      PERIODO: 28/04 A 27/05/18
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180529000000[-3:GMT]
+                        <TRNAMT>-9,50
+                        <FITID>00652806
+                        <CHECKNUM>00652806
+                        <PAYEEID>0
+                        <MEMO>TARIFA TED BCE                     28/05/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180529000000[-3:GMT]
+                        <TRNAMT>-1,90
+                        <FITID>00662806
+                        <CHECKNUM>00662806
+                        <PAYEEID>0
+                        <MEMO>TARIFA DE SAQUE ATM                26/05/2018               
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180529000000[-3:GMT]
+                        <TRNAMT>1384,18
+                        <FITID>00324220
+                        <CHECKNUM>00324220
+                        <PAYEEID>0
+                        <MEMO>TRANSFERENCIA ENTRE CONTAS         23972571000193           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180529000000[-3:GMT]
+                        <TRNAMT>9700,00
+                        <FITID>00191661
+                        <CHECKNUM>00191661
+                        <PAYEEID>0
+                        <MEMO>TRANSFERENCIA ENTRE CONTAS         75675579249              
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180530000000[-3:GMT]
+                        <TRNAMT>-2249,56
+                        <FITID>00692806
+                        <CHECKNUM>00692806
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DARF EM CANAIS           INTERNET SIMPLES NACIONAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180530000000[-3:GMT]
+                        <TRNAMT>1067,00
+                        <FITID>00702806
+                        <CHECKNUM>00702806
+                        <PAYEEID>0
+                        <MEMO>TED DIFERENTE TITULARIDADE CIP     03775620000190           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180601000000[-3:GMT]
+                        <TRNAMT>-488,52
+                        <FITID>00712806
+                        <CHECKNUM>00712806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET                            
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180601000000[-3:GMT]
+                        <TRNAMT>-232,71
+                        <FITID>00722806
+                        <CHECKNUM>00722806
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET                            
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180601000000[-3:GMT]
+                        <TRNAMT>-3610,00
+                        <FITID>00194928
+                        <CHECKNUM>00194928
+                        <PAYEEID>0
+                        <MEMO>EMISSAO DE DOC E VIA BCE           081.298.002-68           
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180601000000[-3:GMT]
+                        <TRNAMT>-180,00
+                        <FITID>00012345
+                        <CHECKNUM>00012345
+                        <PAYEEID>0
+                        <MEMO>COMPRA CARTAO MAESTRO              01/06 AUTO POSTO LAGO    
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180601000000[-3:GMT]
+                        <TRNAMT>-12,13
+                        <FITID>00752806
+                        <CHECKNUM>00752806
+                        <PAYEEID>0
+                        <MEMO>IOF IMPOSTO OPERACOES FINANCEIRAS  PERIODO: 01/05 A 31/05/18
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20180601000000[-3:GMT]
+                        <TRNAMT>-115,61
+                        <FITID>00762806
+                        <CHECKNUM>00762806
+                        <PAYEEID>0
+                        <MEMO>IOF ADICIONAL - AUTOMATICO         PERIODO: 01/05 A 31/05/18
+                    </STMTTRN>
+                </BANKTRANLIST>
+                <LEDGERBAL>
+                    <BALAMT>4949,85
+                    <DTASOF>20180628115958[-3:GMT]
+                </LEDGERBAL>
+            </STMTRS>
+        </STMTTRNRS>
+    </BANKMSGSRSV1>
+</OFX>
